@@ -1,7 +1,7 @@
 # CHICKEN ASSASSIN
 ## Sequence 1 — "The Shadow"
 
-*Draft 1 · Opening of the film · Estimated length: 3–4 minutes*
+*Draft 2 · Opening of the film · Estimated length: 3–4 minutes*
 
 **Purpose:** introduce Monasville, the Syndicate, Alexander Voss and FLYCORP. Show why the mayor is
 a problem for them. Send the B-ros to kill him, and have them meet a figure standing in the road.
@@ -31,8 +31,8 @@ Dark glass, polished wood, the city glittering below. A wall screen plays the ne
 On screen: **MAYOR ROBERT MITCHELL** (50s, bison, honest face, tired eyes) at a podium.
 
 **ALEXANDER VOSS** (50s, bull, perfect suit, calm as still water) stands at the window with his
-back to us. A gold ring catches the light. On it is the mark of **THE SYNDICATE**: a red,
-burning rooster.
+back to us. A gold ring catches the light. On it is the mark of **THE SYNDICATE**: a red
+phoenix rising from flames.
 
 He touches a remote. The mayor's voice fills the room.
 
@@ -58,10 +58,11 @@ mayor's face on the screen.
 
 **INT. B-ROS' CAR — MOVING — NIGHT**
 
-A black sedan. Rap music thumping low. Dashboard glow.
+A black sedan. Hard, aggressive drill music thumping low. Dashboard glow.
 
-**BILLY** (20s, driving, loud, cocky, chewing gum) taps the wheel to the beat. Next to him,
-**BILL** (20s, quiet, cold) loads a pistol round by round. A small red light blinks on the
+**BILLY** (20s, rooster, red comb, driving, loud, cocky, chewing gum) taps the wheel to the
+beat. Next to him, **BILL** (20s, dog, baseball cap, quiet, cold) loads a pistol round by
+round. Not brothers, but they've worked together so long the Syndicate calls them "the B-ros." A small red light blinks on the
 **dashcam** between them.
 
 A phone buzzes. Bill reads it.
@@ -223,14 +224,16 @@ Silence.
 
 The streetlight **buzzes back on**.
 
-Bill stands frozen in the road, eyes wide. The figure stands behind him, perfectly still,
-sword lowered.
+Bill stands frozen in the road, eyes wide. Billy lies groaning on the wet road behind him,
+his knife out of reach. The figure stands behind Bill, perfectly still, sword lowered.
 
 > **BILL**
 > (a whisper)
 > ...It's you.
 
-**SLASH.**
+Bill's hand goes for a second pistol in his belt.
+
+**SLASH.** The sword cuts across Bill's gun hand.
 
 **BLOOD SPLASHES ACROSS THE SCREEN.**
 
@@ -242,18 +245,35 @@ A heartbeat of silence. Then a deep, heavy drum hit, and:
 
 **BEAT. IN THE BLACK:**
 
-The faint, steady **beep... beep...** of a machine.
+Heavy breathing. Rain starting to fall.
 
-**INT. B-ROS' CAR — LATER — NIGHT**
+**EXT. RIDGE ROAD — MOMENTS LATER — NIGHT**
 
-Empty. Doors open. Rain begins to fall on the windshield.
+The B-ros are **alive**. Bill kneels in the road, gripping his bleeding hand. Billy drags
+himself up against the car, one eye swelling shut, staring into the dark.
 
-On the dashboard, the small **red light of the dashcam** keeps blinking.
+The road is empty. The figure is gone.
+
+> **BILLY**
+> (shaky, trying to sound tough)
+> He... he let us live. Why'd he let us live?
+
+Bill doesn't answer. With his good hand he takes out his phone and dials.
+
+> **BILL**
+> (into the phone, quiet)
+> Tell the boss.
+> (beat)
+> He's alive.
+
+**INT. B-ROS' CAR — CONTINUOUS**
+
+Rain on the windshield. On the dashboard, the small **red light of the dashcam** keeps blinking.
 
 **Still recording.**
 
 Close on a **shuriken** stuck deep in the car door. Engraved on it is a faded mark: an old,
-scratched-out version of the **Syndicate's burning rooster**.
+scratched-out **red phoenix**, the mark of the Syndicate.
 
 **CUT TO BLACK.**
 
@@ -266,25 +286,25 @@ scratched-out version of the **Syndicate's burning rooster**.
 **What this sets up for later sequences:**
 
 - **The mayor's folder (FLYCORP page):** the evidence he keeps collecting in Sequence 2.
-- **The dashcam:** the Syndicate later finds the footage. That plus the old Syndicate mark on the
-  shuriken is how Voss learns one of his former assassins is alive. That leads to the attack on
-  the Reed family in Sequences 4–5.
+- **Bill's call, the dashcam and the shuriken:** Bill's "He's alive," the dashcam footage and the
+  old Syndicate phoenix on the shuriken are how Voss learns one of his former assassins is alive.
+  That leads to the attack on the Reed family in Sequences 4–5.
 - **Bill's "It's you":** Bill recognises the fighting style from Syndicate legend, a hint
   that the figure is a famous former assassin. It also pays off later when Voss recognises the
   same style in Marcus.
-- **"Turn around. Go home.":** Mason gives them a chance first. He protects, he doesn't hunt.
-  That's who he is now.
+- **"Turn around. Go home." / "Why'd he let us live?":** Mason gives them a chance, and even
+  after they refuse, he only wounds them. He protects, he doesn't hunt. That's who he is now.
+  Showing that mercy is also what gets his family found.
 - **Red comb under the hood:** the only clue to who he is. After Sequence 3 the audience may
   connect it to Mason.
 
 **Why the fight is shown in flashes:** it's cheaper and easier to animate than a fully lit fight,
 it's scarier, and it keeps Mason a mystery. Each flash is one short AI video shot.
 
-**Questions for you to decide:**
+**Decisions made for this draft:**
 
-1. **Do both B-ros die here,** or does one survive? (In this draft both die.)
-2. **What animal are Billy and Bill?** Their character sheet isn't fully clear. Roosters?
-3. **Is the Syndicate mark a "burning rooster"?** That's my reading of the red emblem on your
-   cast lineup. Change it if your friend had something else in mind.
-4. **The music:** the B-ros play rap in the car, and Mason and Marcus listen to rap together
-   in Sequence 3. Is that a deliberate echo, or should the B-ros' music be different?
+1. **Both B-ros survive.** The blood splash is Bill's gun hand being cut, not a kill.
+2. **Billy is a rooster, Bill is a dog.** They're partners, and "the B-ros" is a nickname.
+3. **The Syndicate's symbol is a red phoenix**, on Voss's ring and on the old shuriken.
+4. **The B-ros play aggressive drill music.** Warm, old-school rap belongs to Mason and Marcus
+   (Sequence 3).
