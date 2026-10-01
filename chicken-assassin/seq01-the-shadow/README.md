@@ -24,7 +24,7 @@ Everything here is built from code by `build_road_scene.py`. There are no hand-m
 | C | `Shot_C` | Hero low angle: Mason backlit by a streetlight, with FLYCORP tower behind him |
 | D | `Shot_D_PushIn` | 3-second (72-frame) slow push-in from the car toward Mason |
 
-Rendered stills are in `renders/`. The push-in is `renders/shot_D_pushin.mp4`.
+Rendered stills are in `renders/`. The push-in preview is `renders/shot_D_pushin.mp4` (first 42 of 72 frames, half resolution).
 
 ## How to use it
 
