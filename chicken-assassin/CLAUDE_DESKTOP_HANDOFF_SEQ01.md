@@ -48,7 +48,12 @@ Kweku/
         └── production-log.md
 ```
 
-### 1.2 Get the project files from GitHub
+### 1.2 Get the project files
+
+**If the user gave you `ChickenAssassin_project.zip`:** unzip it into `project-files/` and skip
+the GitHub steps. Read `PROJECT_BRIEF.md` in it first.
+
+**Otherwise, from GitHub:**
 
 - Repository: `https://github.com/Adom71/Adom71`
 - Branch: `claude/clever-euler-41znxo`
@@ -65,6 +70,7 @@ What's inside `project-files/chicken-assassin/`:
 
 | File | What it is |
 |---|---|
+| `PROJECT_BRIEF.md` | **Read first.** The whole story and every team decision |
 | `reference/cast_lineup.png` | **Main reference for every character's look.** It wins over any description in this file |
 | `reference/mason_reed_sheets.png` | Mason's civilian and assassin character sheets |
 | `reference/zhang_lei_sheet.png` | Zhang Lei's sheet (not in Sequence 1) |
